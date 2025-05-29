@@ -107,7 +107,7 @@ export default function Component() {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-br from-green-50 to-blue-50 p-8">
       <div className="text-center space-y-6">
-        <h1 className="text-4xl font-bold text-gray-800 mb-8">Magic Llama Button</h1>
+        <h1 className="text-4xl font-bold text-gray-800 mb-8">Magic - Llama - Button</h1>
 
         <Button
           onClick={handleButtonClick}
